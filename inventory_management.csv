@@ -1,0 +1,11 @@
+Date,Product_ID,Type,Quantity,Net_quantity
+01-Jun-25,P001,In,100,100
+02-Jun-25,P001,Out,20,-20
+03-Jun-25,P002,In,60,60
+04-Jun-25,P002,Out,15,-15
+05-Jun-25,P003,In,80,80
+06-Jun-25,P003,Out,30,-30
+07-Jun-25,P004,In,200,200
+08-Jun-25,P004,Out,50,-50
+09-Jun-25,P005,In,90,90
+10-Jun-25,P005,Out,25,-25
